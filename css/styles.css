@@ -3,7 +3,7 @@ body{
     /* background-color: rgb(158, 158, 237); */
     text-align: center;
     font-family: 'merriweather',serif;
-    background-image: url(/images/bckgrd.jpg);
+    background-image: url('../images/bckgrd.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
