@@ -34,6 +34,7 @@ h3{
 .touch-msg{
     width: 40%;
     margin: 40px auto 40px;
+    line-height: 1.5
 }
 hr{
     border: dotted #eAf6f6 6px;
